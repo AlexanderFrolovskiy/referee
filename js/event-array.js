@@ -55,8 +55,13 @@ let championshipJunior = [{
         {position: {sportsReferee: 'Большов Игорь Михайлович'}, category: {TC: '3К'}}
     ],
     athletes: [
-        {id: 474774983992222, ageGroup: {m10: 'мальчики 10-11 лет'}, name: 'Сидоров Павел Олегович', birthday: '31.10.2011', region: 'Рязанская область', sportsCategory: {WSC: "б/р"}, discipline: {distance_3m: [
-            
+        {id: 474774983992222, ageGroup: {m10: 'мальчики 14-15 лет'}, name: 'Сидоров Павел Олегович', birthday: '31.10.2007', region: 'Рязанская область', sportsCategory: {WSC: "б/р"}, 
+        discipline: {distance_3m: [
+            {stage: {preliminary: 'предварительный этап'}, series_1: 10, series_2: 20, series_3: 20, series_4: 20, series_5: 20, series_6: 20, series_7: 20, series_8: 20, series_9: 20, series_10: 20}, 
+            {stage: {final: 'финальный этап'}, series_1: 10, series_2: 20, series_3: 20, series_4: 20, series_5: 20, series_6: 20, series_7: 20, series_8: 20, series_9: 20, series_10: 20}
+        ], distance_5m: [
+            {stage: {preliminary: 'предварительный этап'}, series_1: 10, series_2: 20, series_3: 20, series_4: 20, series_5: 20, series_6: 20, series_7: 20, series_8: 20, series_9: 20, series_10: 20}, 
+            {stage: {final: 'финальный этап'}, series_1: 10, series_2: 20, series_3: 20, series_4: 20, series_5: 20, series_6: 20, series_7: 20, series_8: 20, series_9: 20, series_10: 20}
         ]}}
     ]
    
